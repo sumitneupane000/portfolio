@@ -114,18 +114,19 @@ nav a:hover {
 nav .resume-btn {
     position: absolute;
 
-    right: 35px;
-    top: 28px;
+    right: 25px;
+    top: 30px;
 
     margin: 0;
 
-    padding: 10px 22px;
+    padding: 7px 14px;
+    margin :0;
 
     background: #38bdf8;
     color: #0f172a;
 
     text-decoration: none;
-    border-radius: 30px;
+    border-radius: 20px;
 
     font-weight: bold;
 
